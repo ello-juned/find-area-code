@@ -1,0 +1,1837 @@
+[
+  {
+    "AreaCode": "201",
+    "State": "New Jersey",
+    "Cities": "Bayonne, Union City, Jersey City"
+  },
+  {
+    "AreaCode": "202",
+    "State": "District Of Columbia",
+    "Cities": "Washington"
+  },
+  {
+    "AreaCode": "203",
+    "State": "Connecticut",
+    "Cities": "Danbury, Stamford, Milford"
+  },
+  {
+    "AreaCode": "204",
+    "State": "Manitoba",
+    "Cities": "Winnipeg, Brandon"
+  },
+  {
+    "AreaCode": "205",
+    "State": "Alabama",
+    "Cities": "Jasper, Clanton, Birmingham"
+  },
+  {
+    "AreaCode": "206",
+    "State": "Washington",
+    "Cities": "Seattle"
+  },
+  {
+    "AreaCode": "207",
+    "State": "Maine",
+    "Cities": "Portland"
+  },
+  {
+    "AreaCode": "208",
+    "State": "Idaho",
+    "Cities": "Boise, Idaho Falls, Pocatello"
+  },
+  {
+    "AreaCode": "209",
+    "State": "California",
+    "Cities": "Merced, Turlock, Modesto"
+  },
+  {
+    "AreaCode": "210",
+    "State": "Texas",
+    "Cities": "San Antonio"
+  },
+  {
+    "AreaCode": "211",
+    "State": "Non-Geographic",
+    "Cities": "Health Services Number"
+  },
+  {
+    "AreaCode": "212",
+    "State": "New York",
+    "Cities": "New York City"
+  },
+  {
+    "AreaCode": "213",
+    "State": "California",
+    "Cities": "Los Angeles"
+  },
+  {
+    "AreaCode": "214",
+    "State": "Texas",
+    "Cities": "Dallas"
+  },
+  {
+    "AreaCode": "215",
+    "State": "Pennsylvania",
+    "Cities": "Philadelphia, Levittown"
+  },
+  {
+    "AreaCode": "216",
+    "State": "Ohio",
+    "Cities": "Cleveland, Euclid, Lakewood"
+  },
+  {
+    "AreaCode": "217",
+    "State": "Illinois",
+    "Cities": "Champaign, Decatur, Springfield"
+  },
+  {
+    "AreaCode": "218",
+    "State": "Minnesota",
+    "Cities": "Duluth, Roseau, Moorhead"
+  },
+  {
+    "AreaCode": "219",
+    "State": "Indiana",
+    "Cities": "Gary, Hammond"
+  },
+  {
+    "AreaCode": "224",
+    "State": "Illinois",
+    "Cities": "Evanston, Arlington Heights, Skokie"
+  },
+  {
+    "AreaCode": "225",
+    "State": "Louisiana",
+    "Cities": "Baton Rouge"
+  },
+  {
+    "AreaCode": "226",
+    "State": "Ontario",
+    "Cities": "Windsor, London, Kitchener"
+  },
+  {
+    "AreaCode": "227",
+    "State": "Maryland",
+    "Cities": "Silver Spring"
+  },
+  {
+    "AreaCode": "228",
+    "State": "Mississippi",
+    "Cities": "Gulfport, Biloxi"
+  },
+  {
+    "AreaCode": "229",
+    "State": "Georgia",
+    "Cities": "Albany, Valdosta, Thomasville"
+  },
+  {
+    "AreaCode": "231",
+    "State": "Michigan",
+    "Cities": "Traverse City, Muskegon, Cadillac"
+  },
+  {
+    "AreaCode": "234",
+    "State": "Ohio",
+    "Cities": "Akron, Youngstown"
+  },
+  {
+    "AreaCode": "236",
+    "State": "British Columbia",
+    "Cities": "Kamloops, Kelowna, Prince George"
+  },
+  {
+    "AreaCode": "239",
+    "State": "Florida",
+    "Cities": "Cape Coral, Fort Myers, Naples"
+  },
+  {
+    "AreaCode": "240",
+    "State": "Maryland",
+    "Cities": "Germantown, Silver Spring, Bethesda"
+  },
+  {
+    "AreaCode": "242",
+    "State": "The Bahamas",
+    "Cities": "Nassau"
+  },
+  {
+    "AreaCode": "246",
+    "State": "Barbados",
+    "Cities": "Bridgetown"
+  },
+  {
+    "AreaCode": "248",
+    "State": "Michigan",
+    "Cities": "Troy, Southfield, Pontiac"
+  },
+  {
+    "AreaCode": "249",
+    "State": "Ontario",
+    "Cities": "Greater Sudbury, North Bay"
+  },
+  {
+    "AreaCode": "250",
+    "State": "British Columbia",
+    "Cities": "Victoria, Kelowna, Nanaimo"
+  },
+  {
+    "AreaCode": "251",
+    "State": "Alabama",
+    "Cities": "Mobile, Daphne, Fairhope"
+  },
+  {
+    "AreaCode": "252",
+    "State": "North Carolina",
+    "Cities": "Greenville, New Bern, Havelock"
+  },
+  {
+    "AreaCode": "253",
+    "State": "Washington",
+    "Cities": "Tacoma, Auburn, Kent"
+  },
+  {
+    "AreaCode": "254",
+    "State": "Texas",
+    "Cities": "Killeen, Temple, Copperas Cove"
+  },
+  {
+    "AreaCode": "256",
+    "State": "Alabama",
+    "Cities": "Decatur, Madison, Huntsville"
+  },
+  {
+    "AreaCode": "260",
+    "State": "Indiana",
+    "Cities": "Fort Wayne"
+  },
+  {
+    "AreaCode": "262",
+    "State": "Wisconsin",
+    "Cities": "Kenosha, Racine, West Allis"
+  },
+  {
+    "AreaCode": "264",
+    "State": "Anguilla",
+    "Cities": "The Valley"
+  },
+  {
+    "AreaCode": "267",
+    "State": "Pennsylvania",
+    "Cities": "Philadelphia, Levittown"
+  },
+  {
+    "AreaCode": "268",
+    "State": "Antigua And Barbuda",
+    "Cities": "St. John's"
+  },
+  {
+    "AreaCode": "269",
+    "State": "Michigan",
+    "Cities": "Kalamazoo, Battle Creek, Portage"
+  },
+  {
+    "AreaCode": "270",
+    "State": "Kentucky",
+    "Cities": "Bowling Green, Paducah, Hopkinsville"
+  },
+  {
+    "AreaCode": "272",
+    "State": "Pennsylvania",
+    "Cities": "Nanticoke, Hazleton, Kingston"
+  },
+  {
+    "AreaCode": "276",
+    "State": "Virginia",
+    "Cities": "Bristol, Martinsville, Danville"
+  },
+  {
+    "AreaCode": "281",
+    "State": "Texas",
+    "Cities": "Houston, Sugar Land, Baytown"
+  },
+  {
+    "AreaCode": "283",
+    "State": "Ohio",
+    "Cities": "Cincinnati, Hamilton, Middletown"
+  },
+  {
+    "AreaCode": "284",
+    "State": "British Virgin Islands",
+    "Cities": "Road Town"
+  },
+  {
+    "AreaCode": "289",
+    "State": "Ontario",
+    "Cities": "Mississauga, Brampton, Hamilton"
+  },
+  {
+    "AreaCode": "301",
+    "State": "Maryland",
+    "Cities": "Rockville, Silver Spring, Bethesda"
+  },
+  {
+    "AreaCode": "302",
+    "State": "Delaware",
+    "Cities": "Wilmington, Dover, Newark"
+  },
+  {
+    "AreaCode": "303",
+    "State": "Colorado",
+    "Cities": "Denver, Aurora, Lakewood"
+  },
+  {
+    "AreaCode": "304",
+    "State": "West Virginia",
+    "Cities": "Charleston, Huntington, Parkersburg"
+  },
+  {
+    "AreaCode": "305",
+    "State": "Florida",
+    "Cities": "Miami, Hialeah, Miami Beach"
+  },
+  {
+    "AreaCode": "306",
+    "State": "Saskatchewan",
+    "Cities": "Regina, Saskatoon, Moose Jaw"
+  },
+  {
+    "AreaCode": "307",
+    "State": "Wyoming",
+    "Cities": "Cheyenne, Casper, Laramie"
+  },
+  {
+    "AreaCode": "308",
+    "State": "Nebraska",
+    "Cities": "Grand Island, Kearney, Hastings"
+  },
+  {
+    "AreaCode": "309",
+    "State": "Illinois",
+    "Cities": "Peoria, Bloomington, Normal"
+  },
+  {
+    "AreaCode": "310",
+    "State": "California",
+    "Cities": "Santa Monica, Beverly Hills, Culver City"
+  },
+  {
+    "AreaCode": "312",
+    "State": "Illinois",
+    "Cities": "Chicago, Naperville, Elgin"
+  },
+  {
+    "AreaCode": "313",
+    "State": "Michigan",
+    "Cities": "Detroit, Dearborn, Livonia"
+  },
+  {
+    "AreaCode": "314",
+    "State": "Missouri",
+    "Cities": "St. Louis, St. Charles, St. Peters"
+  },
+  {
+    "AreaCode": "315",
+    "State": "New York",
+    "Cities": "Syracuse, Utica, Rome"
+  },
+  {
+    "AreaCode": "316",
+    "State": "Kansas",
+    "Cities": "Wichita, Derby, Newton"
+  },
+  {
+    "AreaCode": "317",
+    "State": "Indiana",
+    "Cities": "Indianapolis, Anderson, Lawrence"
+  },
+  {
+    "AreaCode": "318",
+    "State": "Louisiana",
+    "Cities": "Shreveport, Monroe, Ruston"
+  },
+  {
+    "AreaCode": "319",
+    "State": "Iowa",
+    "Cities": "Cedar Rapids, Waterloo, Iowa City"
+  },
+  {
+    "AreaCode": "320",
+    "State": "Minnesota",
+    "Cities": "St. Cloud, Willmar, Alexandria"
+  },
+  {
+    "AreaCode": "321",
+    "State": "Florida",
+    "Cities": "Orlando, Melbourne, Palm Bay"
+  },
+  {
+    "AreaCode": "323",
+    "State": "California",
+    "Cities": "Los Angeles, Huntington Park, Maywood"
+  },
+  {
+    "AreaCode": "325",
+    "State": "Texas",
+    "Cities": "Abilene, San Angelo, Sweetwater"
+  },
+  {
+    "AreaCode": "327",
+    "State": "Quebec",
+    "Cities": "Granby, Saint-Hyacinthe, Saint-Jean-sur-Richelieu"
+  },
+  {
+    "AreaCode": "330",
+    "State": "Ohio",
+    "Cities": "Akron, Youngstown"
+  },
+  {
+    "AreaCode": "331",
+    "State": "Illinois",
+    "Cities": "Aurora, Elgin, St. Charles"
+  },
+  {
+    "AreaCode": "334",
+    "State": "Alabama",
+    "Cities": "Montgomery, Prattville, Auburn"
+  },
+  {
+    "AreaCode": "336",
+    "State": "North Carolina",
+    "Cities": "Greensboro, High Point, Winston-Salem"
+  },
+  {
+    "AreaCode": "337",
+    "State": "Louisiana",
+    "Cities": "Lafayette, Opel, Jusica"
+  },
+  {
+    "AreaCode": "339",
+    "State": "Massachusetts",
+    "Cities": "Cambridge, Quincy, Somerville"
+  },
+  {
+    "AreaCode": "340",
+    "State": "Virgin Islands",
+    "Cities": "Charlotte Amalie, Saint Croix"
+  },
+  {
+    "AreaCode": "343",
+    "State": "Ontario",
+    "Cities": "Ottawa, Gatineau"
+  },
+  {
+    "AreaCode": "345",
+    "State": "Cayman Islands",
+    "Cities": "George Town"
+  },
+  {
+    "AreaCode": "346",
+    "State": "Texas",
+    "Cities": "Houston"
+  },
+  {
+    "AreaCode": "347",
+    "State": "New York",
+    "Cities": "New York City"
+  },
+  {
+    "AreaCode": "351",
+    "State": "Massachusetts",
+    "Cities": "Fitchburg, Leominster, Gardner"
+  },
+  {
+    "AreaCode": "352",
+    "State": "Florida",
+    "Cities": "Gainesville, Ocala, Leesburg"
+  },
+  {
+    "AreaCode": "360",
+    "State": "Washington",
+    "Cities": "Olympia, Bremerton, Lacey"
+  },
+  {
+    "AreaCode": "361",
+    "State": "Texas",
+    "Cities": "Corpus Christi, Victoria, Alice"
+  },
+  {
+    "AreaCode": "364",
+    "State": "Kentucky",
+    "Cities": "Owensboro, Madisonville, Hopkinsville"
+  },
+  {
+    "AreaCode": "365",
+    "State": "Ontario",
+    "Cities": "Toronto"
+  },
+  {
+    "AreaCode": "380",
+    "State": "Ohio",
+    "Cities": "Akron, Youngstown"
+  },
+  {
+    "AreaCode": "385",
+    "State": "Utah",
+    "Cities": "Salt Lake City, West Valley City, Provo"
+  },
+  {
+    "AreaCode": "386",
+    "State": "Florida",
+    "Cities": "Deltona, Daytona Beach, Port Orange"
+  },
+  {
+    "AreaCode": "401",
+    "State": "Rhode Island",
+    "Cities": "Providence, Warwick, Cranston"
+  },
+  {
+    "AreaCode": "402",
+    "State": "Nebraska",
+    "Cities": "Omaha, Lincoln, Bellevue"
+  },
+  {
+    "AreaCode": "403",
+    "State": "Alberta",
+    "Cities": "Calgary, Edmonton, Red Deer"
+  },
+  {
+    "AreaCode": "404",
+    "State": "Georgia",
+    "Cities": "Atlanta, Sandy Springs, Roswell"
+  },
+  {
+    "AreaCode": "405",
+    "State": "Oklahoma",
+    "Cities": "Oklahoma City, Norman, Edmond"
+  },
+  {
+    "AreaCode": "406",
+    "State": "Montana",
+    "Cities": "Billings, Missoula, Great Falls"
+  },
+  {
+    "AreaCode": "407",
+    "State": "Florida",
+    "Cities": "Orlando, Kissimmee, Sanford"
+  },
+  {
+    "AreaCode": "408",
+    "State": "California",
+    "Cities": "San Jose, Sunnyvale, Santa Clara"
+  },
+  {
+    "AreaCode": "409",
+    "State": "Texas",
+    "Cities": "Beaumont, Port Arthur, Orange"
+  },
+  {
+    "AreaCode": "410",
+    "State": "Maryland",
+    "Cities": "Baltimore, Columbia, Towson"
+  },
+  {
+    "AreaCode": "411",
+    "State": "Non-Geographic",
+    "Cities": "Directory Assistance"
+  },
+  {
+    "AreaCode": "412",
+    "State": "Pennsylvania",
+    "Cities": "Pittsburgh, Penn Hills, Mount Lebanon"
+  },
+  {
+    "AreaCode": "413",
+    "State": "Massachusetts",
+    "Cities": "Springfield, Chicopee, Holyoke"
+  },
+  {
+    "AreaCode": "414",
+    "State": "Wisconsin",
+    "Cities": "Milwaukee, West Allis, Wauwatosa"
+  },
+  {
+    "AreaCode": "415",
+    "State": "California",
+    "Cities": "San Francisco, Oakland, Berkeley"
+  },
+  {
+    "AreaCode": "416",
+    "State": "Ontario",
+    "Cities": "Toronto, North York, East York"
+  },
+  {
+    "AreaCode": "417",
+    "State": "Missouri",
+    "Cities": "Springfield, Nixa, Republic"
+  },
+  {
+    "AreaCode": "418",
+    "State": "Quebec",
+    "Cities": "Quebec City, Lévis, Saguenay"
+  },
+  {
+    "AreaCode": "419",
+    "State": "Ohio",
+    "Cities": "Toledo, Bowling Green, Findlay"
+  },
+  {
+    "AreaCode": "423",
+    "State": "Tennessee",
+    "Cities": "Chattanooga, Johnson City, Kingsport"
+  },
+  {
+    "AreaCode": "424",
+    "State": "California",
+    "Cities": "Los Angeles, Santa Monica, Inglewood"
+  },
+  {
+    "AreaCode": "425",
+    "State": "Washington",
+    "Cities": "Everett, Renton, Kirkland"
+  },
+  {
+    "AreaCode": "430",
+    "State": "Texas",
+    "Cities": "Longview, Tyler, Texarkana"
+  },
+  {
+    "AreaCode": "432",
+    "State": "Texas",
+    "Cities": "Odessa, Midland, Big Spring"
+  },
+  {
+    "AreaCode": "434",
+    "State": "Virginia",
+    "Cities": "Lynchburg, Danville, Charlottesville"
+  },
+  {
+    "AreaCode": "435",
+    "State": "Utah",
+    "Cities": "St. George, Cedar City, Washington"
+  },
+  {
+    "AreaCode": "440",
+    "State": "Ohio",
+    "Cities": "Lorain, Elyria, North Ridgeville"
+  },
+  {
+    "AreaCode": "442",
+    "State": "California",
+    "Cities": "Oceanside, Escondido, Vista"
+  },
+  {
+    "AreaCode": "443",
+    "State": "Maryland",
+    "Cities": "Baltimore, Columbia, Towson"
+  },
+  {
+    "AreaCode": "450",
+    "State": "Quebec",
+    "Cities": "Laval, Brossard, Saint-Hubert"
+  },
+  {
+    "AreaCode": "464",
+    "State": "Illinois",
+    "Cities": "Aurora, Elgin, St. Charles"
+  },
+  {
+    "AreaCode": "469",
+    "State": "Texas",
+    "Cities": "Dallas, Plano, Irving"
+  },
+  {
+    "AreaCode": "470",
+    "State": "Georgia",
+    "Cities": "Atlanta, Sandy Springs, Roswell"
+  },
+  {
+    "AreaCode": "473",
+    "State": "Grenada",
+    "Cities": "St. George's"
+  },
+  {
+    "AreaCode": "475",
+    "State": "Connecticut",
+    "Cities": "Bridgeport, New Haven, Waterbury"
+  },
+  {
+    "AreaCode": "478",
+    "State": "Georgia",
+    "Cities": "Macon, Warner Robins, Dublin"
+  },
+  {
+    "AreaCode": "479",
+    "State": "Arkansas",
+    "Cities": "Fayetteville, Springdale, Rogers"
+  },
+  {
+    "AreaCode": "480",
+    "State": "Arizona",
+    "Cities": "Mesa, Scottsdale, Tempe"
+  },
+  {
+    "AreaCode": "484",
+    "State": "Pennsylvania",
+    "Cities": "Philadelphia, Levittown"
+  },
+  {
+    "AreaCode": "501",
+    "State": "Arkansas",
+    "Cities": "Little Rock, North Little Rock, Conway"
+  },
+  {
+    "AreaCode": "502",
+    "State": "Kentucky",
+    "Cities": "Louisville, Newburg, Jeffersontown"
+  },
+  {
+    "AreaCode": "503",
+    "State": "Oregon",
+    "Cities": "Portland, Salem, Gresham"
+  },
+  {
+    "AreaCode": "504",
+    "State": "Louisiana",
+    "Cities": "New Orleans, Marrero, Terrytown"
+  },
+  {
+    "AreaCode": "505",
+    "State": "New Mexico",
+    "Cities": "Albuquerque, Santa Fe, Rio Rancho"
+  },
+  {
+    "AreaCode": "506",
+    "State": "New Brunswick",
+    "Cities": "Saint John, Moncton, Fredericton"
+  },
+  {
+    "AreaCode": "507",
+    "State": "Minnesota",
+    "Cities": "Rochester, Mankato, Austin"
+  },
+  {
+    "AreaCode": "508",
+    "State": "Massachusetts",
+    "Cities": "Worcester, Framingham, Milford"
+  },
+  {
+    "AreaCode": "509",
+    "State": "Washington",
+    "Cities": "Spokane, Yakima, Walla Walla"
+  },
+  {
+    "AreaCode": "510",
+    "State": "California",
+    "Cities": "Oakland, Fremont, Hayward"
+  },
+  {
+    "AreaCode": "512",
+    "State": "Texas",
+    "Cities": "Austin, Round Rock, San Marcos"
+  },
+  {
+    "AreaCode": "513",
+    "State": "Ohio",
+    "Cities": "Cincinnati, Hamilton, Middletown"
+  },
+  {
+    "AreaCode": "514",
+    "State": "Quebec",
+    "Cities": "Montreal, Dollard-Des Ormeaux, Côte-Saint-Luc"
+  },
+  {
+    "AreaCode": "515",
+    "State": "Iowa",
+    "Cities": "Des Moines, West Des Moines, Ankeny"
+  },
+  {
+    "AreaCode": "516",
+    "State": "New York",
+    "Cities": "Hempstead, Freeport, Long Beach"
+  },
+  {
+    "AreaCode": "517",
+    "State": "Michigan",
+    "Cities": "Lansing, East Lansing, Jackson"
+  },
+  {
+    "AreaCode": "518",
+    "State": "New York",
+    "Cities": "Albany, Schenectady, Troy"
+  },
+  {
+    "AreaCode": "519",
+    "State": "Ontario",
+    "Cities": "London, Kitchener, Windsor"
+  },
+  {
+    "AreaCode": "520",
+    "State": "Arizona",
+    "Cities": "Tucson, Casas Adobes, Catalina Foothills"
+  },
+  {
+    "AreaCode": "530",
+    "State": "California",
+    "Cities": "Redding, Chico, Paradise"
+  },
+  {
+    "AreaCode": "531",
+    "State": "Nebraska",
+    "Cities": "Omaha"
+  },
+  {
+    "AreaCode": "534",
+    "State": "Wisconsin",
+    "Cities": "Milwaukee, West Allis, Wauwatosa"
+  },
+  {
+    "AreaCode": "539",
+    "State": "Oklahoma",
+    "Cities": "Tulsa, Broken Arrow, Owasso"
+  },
+  {
+    "AreaCode": "540",
+    "State": "Virginia",
+    "Cities": "Roan,oke, Cave Spring, Blacksburg"
+  },
+  {
+    "AreaCode": "541",
+    "State": "Oregon",
+    "Cities": "Eugene, Bend, Springfield"
+  },
+  {
+    "AreaCode": "548",
+    "State": "Michigan",
+    "Cities": "Grand Rapids, Kentwood, Wyoming"
+  },
+  {
+    "AreaCode": "551",
+    "State": "New Jersey",
+    "Cities": "Jersey City, Bayonne, Union City"
+  },
+  {
+    "AreaCode": "559",
+    "State": "California",
+    "Cities": "Fresno, Clovis, Visalia"
+  },
+  {
+    "AreaCode": "561",
+    "State": "Florida",
+    "Cities": "West Palm Beach, Boca Raton, Boynton Beach"
+  },
+  {
+    "AreaCode": "562",
+    "State": "California",
+    "Cities": "Long Beach, Cerritos, Norwalk"
+  },
+  {
+    "AreaCode": "563",
+    "State": "Iowa",
+    "Cities": "Davenport, Dubuque, Bettendorf"
+  },
+  {
+    "AreaCode": "564",
+    "State": "Washington",
+    "Cities": "Seattle, Tacoma, Bellevue"
+  },
+  {
+    "AreaCode": "567",
+    "State": "Ohio",
+    "Cities": "Toledo, Findlay, Bowling Green"
+  },
+  {
+    "AreaCode": "570",
+    "State": "Pennsylvania",
+    "Cities": "Scranton, Wilkes-Barre, Williamsport"
+  },
+  {
+    "AreaCode": "571",
+    "State": "Virginia",
+    "Cities": "Alexandria, Dale City, Reston"
+  },
+  {
+    "AreaCode": "573",
+    "State": "Missouri",
+    "Cities": "Columbia, Jefferson City, Hannibal"
+  },
+  {
+    "AreaCode": "574",
+    "State": "Indiana",
+    "Cities": "South Bend, Elkhart, Goshen"
+  },
+  {
+    "AreaCode": "575",
+    "State": "New Mexico",
+    "Cities": "Las Cruces, Roswell, Alamogordo"
+  },
+  {
+    "AreaCode": "579",
+    "State": "Quebec",
+    "Cities": "Granby, Saint-Hyacinthe, Saint-Jean-sur-Richelieu"
+  },
+  {
+    "AreaCode": "580",
+    "State": "Oklahoma",
+    "Cities": "Lawton, Enid, Altus"
+  },
+  {
+    "AreaCode": "585",
+    "State": "New York",
+    "Cities": "Rochester, Irondequoit, Brighton"
+  },
+  {
+    "AreaCode": "586",
+    "State": "Michigan",
+    "Cities": "Warren, Sterling Heights, St. Clair Shores"
+  },
+  {
+    "AreaCode": "601",
+    "State": "Mississippi",
+    "Cities": "Jackson, Hattiesburg, Meridian"
+  },
+  {
+    "AreaCode": "602",
+    "State": "Arizona",
+    "Cities": "Phoenix, Mesa, Glendale"
+  },
+  {
+    "AreaCode": "603",
+    "State": "New Hampshire",
+    "Cities": "Manchester, Nashua, Concord"
+  },
+  {
+    "AreaCode": "604",
+    "State": "British Columbia",
+    "Cities": "Vancouver, Surrey, Burnaby"
+  },
+  {
+    "AreaCode": "605",
+    "State": "South Dakota",
+    "Cities": "Sioux Falls, Rapid City, Aberdeen"
+  },
+  {
+    "AreaCode": "606",
+    "State": "Kentucky",
+    "Cities": "Ashland, Pikeville, Somerset"
+  },
+  {
+    "AreaCode": "607",
+    "State": "New York",
+    "Cities": "Binghamton, Elmira, Ithaca"
+  },
+  {
+    "AreaCode": "608",
+    "State": "Wisconsin",
+    "Cities": "Madison, Janesville, Beloit"
+  },
+  {
+    "AreaCode": "609",
+    "State": "New Jersey",
+    "Cities": "Trenton, Ewing, Princeton"
+  },
+  {
+    "AreaCode": "610",
+    "State": "Pennsylvania",
+    "Cities": "Allentown, Bethlehem, Easton"
+  },
+  {
+    "AreaCode": "612",
+    "State": "Minnesota",
+    "Cities": "Minneapolis, Richfield, Bloomington"
+  },
+  {
+    "AreaCode": "613",
+    "State": "Ontario",
+    "Cities": "Ottawa, Nepean, Kanata"
+  },
+  {
+    "AreaCode": "614",
+    "State": "Ohio",
+    "Cities": "Columbus, Westerville, Reynoldsburg"
+  },
+  {
+    "AreaCode": "615",
+    "State": "Tennessee",
+    "Cities": "Nashville, Murfreesboro, Franklin"
+  },
+  {
+    "AreaCode": "616",
+    "State": "Michigan",
+    "Cities": "Grand Rapids, Wyoming, Kentwood"
+  },
+  {
+    "AreaCode": "617",
+    "State": "Massachusetts",
+    "Cities": "Boston, South Boston, Cambridge"
+  },
+  {
+    "AreaCode": "618",
+    "State": "Illinois",
+    "Cities": "Belleville, East St. Louis, Collinsville"
+  },
+  {
+    "AreaCode": "619",
+    "State": "California",
+    "Cities": "San Diego, Chula Vista, El Cajon"
+  },
+  {
+    "AreaCode": "620",
+    "State": "Kansas",
+    "Cities": "Wichita, Hutchinson, Garden City"
+  },
+  {
+    "AreaCode": "623",
+    "State": "Arizona",
+    "Cities": "Glendale, Sun City, Peoria"
+  },
+  {
+    "AreaCode": "626",
+    "State": "California",
+    "Cities": "Pasadena, West Covina, Arcadia"
+  },
+  {
+    "AreaCode": "628",
+    "State": "California",
+    "Cities": "San Francisco, Oakland, Berkeley"
+  },
+  {
+    "AreaCode": "629",
+    "State": "Tennessee",
+    "Cities": "Nashville, Murfreesboro, Franklin"
+  },
+  {
+    "AreaCode": "630",
+    "State": "Illinois",
+    "Cities": "Aurora, Naperville, Wheaton"
+  },
+  {
+    "AreaCode": "631",
+    "State": "New York",
+    "Cities": "Islip, Brentwood, Coram"
+  },
+  {
+    "AreaCode": "636",
+    "State": "Missouri",
+    "Cities": "O'Fallon, St. Charles, St. Peters"
+  },
+  {
+    "AreaCode": "641",
+    "State": "Iowa",
+    "Cities": "Mason City, Ottumwa, Fort Dodge"
+  },
+  {
+    "AreaCode": "646",
+    "State": "New York",
+    "Cities": "New York, Manhattan, New York City"
+  },
+  {
+    "AreaCode": "647",
+    "State": "Ontario",
+    "Cities": "Toronto"
+  },
+  {
+    "AreaCode": "649",
+    "State": "Turks and Caicos Islands",
+    "Cities": "Cockburn Town"
+  },
+  {
+    "AreaCode": "650",
+    "State": "California",
+    "Cities": "San Mateo, Redwood City, Palo Alto"
+  },
+  {
+    "AreaCode": "651",
+    "State": "Minnesota",
+    "Cities": "St. Paul, West St. Paul, Inver Grove Heights"
+  },
+  {
+    "AreaCode": "657",
+    "State": "California",
+    "Cities": "Anaheim, Huntington Beach, Garden Grove"
+  },
+  {
+    "AreaCode": "660",
+    "State": "Missouri",
+    "Cities": "Sedalia, Warrensburg, Kirksville"
+  },
+  {
+    "AreaCode": "661",
+    "State": "California",
+    "Cities": "Bakersfield, Santa Clarita, Lancaster"
+  },
+  {
+    "AreaCode": "662",
+    "State": "Mississippi",
+    "Cities": "Greenville, Tupelo, Clinton"
+  },
+  {
+    "AreaCode": "664",
+    "State": "Montserrat",
+    "Cities": "Plymouth"
+  },
+  {
+    "AreaCode": "667",
+    "State": "Maryland",
+    "Cities": "Baltimore, Columbia, Towson"
+  },
+  {
+    "AreaCode": "669",
+    "State": "California",
+    "Cities": "San Jose, Milpitas, Los Gatos"
+  },
+  {
+    "AreaCode": "671",
+    "State": "Guam",
+    "Cities": "Hagåtña, Dededo Village, Tamuning-Tumon-Harmon Village"
+  },
+  {
+    "AreaCode": "672",
+    "State": "Pitcairn Islands",
+    "Cities": "Adamstown"
+  },
+  {
+    "AreaCode": "673",
+    "State": "Brunei",
+    "Cities": "Bandar Seri Begawan"
+  },
+  {
+    "AreaCode": "678",
+    "State": "Georgia",
+    "Cities": "Atlanta, Sandy Springs, Roswell"
+  },
+  {
+    "AreaCode": "680",
+    "State": "Northern Mariana Islands",
+    "Cities": "Saipan, San Jose Village, Capitol Hill Village"
+  },
+  {
+    "AreaCode": "682",
+    "State": "Texas",
+    "Cities": "Arlington, Mansfield, North Richland Hills"
+  },
+  {
+    "AreaCode": "684",
+    "State": "American Samoa",
+    "Cities": "Pago Pago, Tafuna, Leone"
+  },
+  {
+    "AreaCode": "701",
+    "State": "North Dakota",
+    "Cities": "Fargo, Bismarck, Grand Forks"
+  },
+  {
+    "AreaCode": "702",
+    "State": "Nevada",
+    "Cities": "Las Vegas, Henderson, North Las Vegas"
+  },
+  {
+    "AreaCode": "703",
+    "State": "Virginia",
+    "Cities": "Arlington, Alexandria, Reston"
+  },
+  {
+    "AreaCode": "704",
+    "State": "North Carolina",
+    "Cities": "Charlotte, Concord, Huntersville"
+  },
+  {
+    "AreaCode": "705",
+    "State": "Ontario",
+    "Cities": "Sudbury, North Bay, Sault Ste. Marie"
+  },
+  {
+    "AreaCode": "706",
+    "State": "Georgia",
+    "Cities": "Columbus, Augusta, LaGrange"
+  },
+  {
+    "AreaCode": "707",
+    "State": "California",
+    "Cities": "Santa Rosa, Petaluma, Rohnert Park"
+  },
+  {
+    "AreaCode": "708",
+    "State": "Illinois",
+    "Cities": "Cicero, Oak Lawn, Berwyn"
+  },
+  {
+    "AreaCode": "712",
+    "State": "Iowa",
+    "Cities": "Sioux City, Council Bluffs, Spencer"
+  },
+  {
+    "AreaCode": "713",
+    "State": "Texas",
+    "Cities": "Houston, Pasadena, Baytown"
+  },
+  {
+    "AreaCode": "714",
+    "State": "California",
+    "Cities": "Anaheim, Santa Ana, Fullerton"
+  },
+  {
+    "AreaCode": "715",
+    "State": "Wisconsin",
+    "Cities": "Eau Claire, La Crosse, Wausau"
+  },
+  {
+    "AreaCode": "716",
+    "State": "New York",
+    "Cities": "Buffalo, Niagara Falls, North Tonawanda"
+  },
+  {
+    "AreaCode": "717",
+    "State": "Pennsylvania",
+    "Cities": "Harrisburg, Carlisle, Hershey"
+  },
+  {
+    "AreaCode": "718",
+    "State": "New York",
+    "Cities": "New York, Bronx, Brooklyn"
+  },
+  {
+    "AreaCode": "719",
+    "State": "Colorado",
+    "Cities": "Colorado Springs, Pueblo, Canon City"
+  },
+  {
+    "AreaCode": "720",
+    "State": "Colorado",
+    "Cities": "Aurora, Denver, Lakewood"
+  },
+  {
+    "AreaCode": "724",
+    "State": "Pennsylvania",
+    "Cities": "Pittsburgh, New Castle, McKeesport"
+  },
+  {
+    "AreaCode": "727",
+    "State": "Florida",
+    "Cities": "Clearwater, Largo, Pinellas Park"
+  },
+  {
+    "AreaCode": "731",
+    "State": "Tennessee",
+    "Cities": "Jackson, Dyersburg, Lexington"
+  },
+  {
+    "AreaCode": "732",
+    "State": "New Jersey",
+    "Cities": "Toms River, New Brunswick, Perth Amboy"
+  },
+  {
+    "AreaCode": "734",
+    "State": "Michigan",
+    "Cities": "Ann Arbor, Westland, Taylor"
+  },
+  {
+    "AreaCode": "737",
+    "State": "Texas",
+    "Cities": "Austin"
+  },
+  {
+    "AreaCode": "740",
+    "State": "Ohio",
+    "Cities": "Lancaster, Newark, Zanesville"
+  },
+  {
+    "AreaCode": "747",
+    "State": "California",
+    "Cities": "Los Angeles"
+  },
+  {
+    "AreaCode": "754",
+    "State": "Florida",
+    "Cities": "Fort Lauderdale, Hollywood, Pompano Beach"
+  },
+  {
+    "AreaCode": "757",
+    "State": "Virginia",
+    "Cities": "Virginia Beach, Norfolk, Chesapeake"
+  },
+  {
+    "AreaCode": "758",
+    "State": "Saint Lucia",
+    "Cities": "Castries"
+  },
+  {
+    "AreaCode": "760",
+    "State": "California",
+    "Cities": "Oceanside, Escondido, Vista"
+  },
+  {
+    "AreaCode": "762",
+    "State": "Georgia",
+    "Cities": "Augusta, Columbus, Athens"
+  },
+  {
+    "AreaCode": "763",
+    "State": "Minnesota",
+    "Cities": "Brooklyn Park, Maple Grove, Plymouth"
+  },
+  {
+    "AreaCode": "765",
+    "State": "Indiana",
+    "Cities": "Kokomo, Anderson, Muncie"
+  },
+  {
+    "AreaCode": "767",
+    "State": "Dominica",
+    "Cities": "Roseau"
+  },
+  {
+    "AreaCode": "769",
+    "State": "Mississippi",
+    "Cities": "Jackson, Hattiesburg, Meridian"
+  },
+  {
+    "AreaCode": "770",
+    "State": "Georgia",
+    "Cities": "Atlanta, Sandy Springs, Roswell"
+  },
+  {
+    "AreaCode": "772",
+    "State": "Florida",
+    "Cities": "Port St. Lucie, Fort Pierce, Sebastian"
+  },
+  {
+    "AreaCode": "773",
+    "State": "Illinois",
+    "Cities": "Chicago"
+  },
+  {
+    "AreaCode": "774",
+    "State": "Massachusetts",
+    "Cities": "Worcester, Leominster, Fitchburg"
+  },
+  {
+    "AreaCode": "775",
+    "State": "Nevada",
+    "Cities": "Reno, Carson City, Elko"
+  },
+  {
+    "AreaCode": "778",
+    "State": "British Columbia",
+    "Cities": "Vancouver"
+  },
+  {
+    "AreaCode": "779",
+    "State": "Illinois",
+    "Cities": "Rockford, Belvidere, Freeport"
+  },
+  {
+    "AreaCode": "780",
+    "State": "Alberta",
+    "Cities": "Edmonton, Sherwood Park, St. Albert"
+  },
+  {
+    "AreaCode": "781",
+    "State": "Massachusetts",
+    "Cities": "Waltham, Arlington, Woburn"
+  },
+  {
+    "AreaCode": "782",
+    "State": "Nova Scotia, Prince Edward Island",
+    "Cities": "Sydney, Charlottetown"
+  },
+  {
+    "AreaCode": "784",
+    "State": "Saint Vincent and the Grenadines",
+    "Cities": "Kingstown"
+  },
+  {
+    "AreaCode": "785",
+    "State": "Kansas",
+    "Cities": "Topeka, Lawrence, Salina"
+  },
+  {
+    "AreaCode": "786",
+    "State": "Florida",
+    "Cities": "Miami, Hialeah, Miami Beach"
+  },
+  {
+    "AreaCode": "787",
+    "State": "Puerto Rico",
+    "Cities": "San Juan, Bayamón, Carolina"
+  },
+  {
+    "AreaCode": "801",
+    "State": "Utah",
+    "Cities": "Salt Lake City, West Valley City, Provo"
+  },
+  {
+    "AreaCode": "802",
+    "State": "Vermont",
+    "Cities": "Burlington, South Burlington, Rutland"
+  },
+  {
+    "AreaCode": "803",
+    "State": "South Carolina",
+    "Cities": "Columbia, Charleston, North Charleston"
+  },
+  {
+    "AreaCode": "804",
+    "State": "Virginia",
+    "Cities": "Richmond, Tuckahoe, Mechanicsville"
+  },
+  {
+    "AreaCode": "805",
+    "State": "California",
+    "Cities": "Oxnard, Thousand Oaks, Simi Valley"
+  },
+  {
+    "AreaCode": "806",
+    "State": "Texas",
+    "Cities": "Amarillo, Lubbock, Plainview"
+  },
+  {
+    "AreaCode": "807",
+    "State": "Ontario",
+    "Cities": "Thunder Bay, Kenora, Dryden"
+  },
+  {
+    "AreaCode": "808",
+    "State": "Hawaii",
+    "Cities": "Honolulu, East Honolulu, Pearl City"
+  },
+  {
+    "AreaCode": "809",
+    "State": "Dominican Republic",
+    "Cities": "Santo Domingo, Santiago de los Caballeros, Santo Domingo Oeste"
+  },
+  {
+    "AreaCode": "810",
+    "State": "Michigan",
+    "Cities": "Flint, Burton, Owosso"
+  },
+  {
+    "AreaCode": "812",
+    "State": "Indiana",
+    "Cities": "Bloomington, Columbus, New Albany"
+  },
+  {
+    "AreaCode": "813",
+    "State": "Florida",
+    "Cities": "Tampa, Brandon, Carrollwood"
+  },
+  {
+    "AreaCode": "814",
+    "State": "Pennsylvania",
+    "Cities": "Erie, Altoona, Johnstown"
+  },
+  {
+    "AreaCode": "815",
+    "State": "Illinois",
+    "Cities": "Rockford, Joliet, Dekalb"
+  },
+  {
+    "AreaCode": "816",
+    "State": "Missouri",
+    "Cities": "Kansas City, St. Joseph, Lees Summit"
+  },
+  {
+    "AreaCode": "817",
+    "State": "Texas",
+    "Cities": "Fort Worth, Arlington, North Richland Hills"
+  },
+  {
+    "AreaCode": "818",
+    "State": "California",
+    "Cities": "Los Angeles, Glendale, Burbank"
+  },
+  {
+    "AreaCode": "819",
+    "State": "Quebec",
+    "Cities": "Gatineau, Sherbrooke, Drummondville"
+  },
+  {
+    "AreaCode": "828",
+    "State": "North Carolina",
+    "Cities": "Asheville, Hickory, Lenoir"
+  },
+  {
+    "AreaCode": "830",
+    "State": "Texas",
+    "Cities": "New Braunfels, Seguin, Kerrville"
+  },
+  {
+    "AreaCode": "831",
+    "State": "California",
+    "Cities": "Salinas, Santa Cruz, Monterey"
+  },
+  {
+    "AreaCode": "832",
+    "State": "Texas",
+    "Cities": "Houston, Pasadena, Baytown"
+  },
+  {
+    "AreaCode": "843",
+    "State": "South Carolina",
+    "Cities": "Charleston, North Charleston, Mount Pleasant"
+  },
+  {
+    "AreaCode": "845",
+    "State": "New York",
+    "Cities": "Poughkeepsie, New City, Spring Valley"
+  },
+  {
+    "AreaCode": "847",
+    "State": "Illinois",
+    "Cities": "Arlington Heights, Evanston, Waukegan"
+  },
+  {
+    "AreaCode": "848",
+    "State": "New Jersey",
+    "Cities": "Toms River, New Brunswick, Perth Amboy"
+  },
+  {
+    "AreaCode": "849",
+    "State": "Dominican Republic",
+    "Cities": "Santo Domingo, Santiago de los Caballeros, Santo Domingo Oeste"
+  },
+  {
+    "AreaCode": "850",
+    "State": "Florida",
+    "Cities": "Pensacola, Tallahassee, Fort Walton Beach"
+  },
+  {
+    "AreaCode": "854",
+    "State": "South Carolina",
+    "Cities": "Charleston, North Charleston, Mount Pleasant"
+  },
+  {
+    "AreaCode": "856",
+    "State": "New Jersey",
+    "Cities": "Camden, Vineland, Millville"
+  },
+  {
+    "AreaCode": "857",
+    "State": "Massachusetts",
+    "Cities": "Boston, South Boston, Cambridge"
+  },
+  {
+    "AreaCode": "858",
+    "State": "California",
+    "Cities": "San Diego, Poway, Solana Beach"
+  },
+  {
+    "AreaCode": "859",
+    "State": "Kentucky",
+    "Cities": "Lexington, Richmond, Nicholasville"
+  },
+  {
+    "AreaCode": "860",
+    "State": "Connecticut",
+    "Cities": "Hartford, New Britain, West Hartford"
+  },
+  {
+    "AreaCode": "862",
+    "State": "New Jersey",
+    "Cities": "Newark, Jersey City, Paterson"
+  },
+  {
+    "AreaCode": "863",
+    "State": "Florida",
+    "Cities": "Lakeland, Winter Haven, Haines City"
+  },
+  {
+    "AreaCode": "864",
+    "State": "South Carolina",
+    "Cities": "Greenville, Spartanburg, Anderson"
+  },
+  {
+    "AreaCode": "865",
+    "State": "Tennessee",
+    "Cities": "Knoxville, Maryville, Oak Ridge"
+  },
+  {
+    "AreaCode": "868",
+    "State": "Trinidad and Tobago",
+    "Cities": "Port of Spain, San Fernando, Arima"
+  },
+  {
+    "AreaCode": "869",
+    "State": "Saint Kitts and Nevis",
+    "Cities": "Basseter, Charlestown"
+  },
+  {
+    "AreaCode": "870",
+    "State": "Arkansas",
+    "Cities": "Pine Bluff, Jonesboro, West Memphis"
+  },
+  {
+    "AreaCode": "872",
+    "State": "Illinois",
+    "Cities": "Chicago"
+  },
+  {
+    "AreaCode": "876",
+    "State": "Jamaica",
+    "Cities": "Kingston, New Kingston, Spanish Town"
+  },
+  {
+    "AreaCode": "878",
+    "State": "Pennsylvania",
+    "Cities": "Pittsburgh, Penn Hills, Mount Lebanon"
+  },
+  {
+    "AreaCode": "901",
+    "State": "Tennessee",
+    "Cities": "Memphis, Collierville, Germantown"
+  },
+  {
+    "AreaCode": "903",
+    "State": "Texas",
+    "Cities": "Tyler, Longview, Sherman"
+  },
+  {
+    "AreaCode": "904",
+    "State": "Florida",
+    "Cities": "Jacksonville, Palm Valley, Lakeside"
+  },
+  {
+    "AreaCode": "906",
+    "State": "Michigan",
+    "Cities": "Marquette, Sault Ste. Marie, Escanaba"
+  },
+  {
+    "AreaCode": "907",
+    "State": "Alaska",
+    "Cities": "Anchorage, Fairbanks, Juneau"
+  },
+  {
+    "AreaCode": "908",
+    "State": "New Jersey",
+    "Cities": "Elizabeth, Linden, Union"
+  },
+  {
+    "AreaCode": "909",
+    "State": "California",
+    "Cities": "San Bernardino, Fontana, Ontario"
+  },
+  {
+    "AreaCode": "910",
+    "State": "North Carolina",
+    "Cities": "Fayetteville, Jacksonville, Lumberton"
+  },
+  {
+    "AreaCode": "912",
+    "State": "Georgia",
+    "Cities": "Savannah, Hinesville, Brunswick"
+  },
+  {
+    "AreaCode": "913",
+    "State": "Kansas",
+    "Cities": "Kansas City, Overland Park, Olathe"
+  },
+  {
+    "AreaCode": "914",
+    "State": "New York",
+    "Cities": "Yonkers, New Rochelle, Mount Vernon"
+  },
+  {
+    "AreaCode": "915",
+    "State": "Texas",
+    "Cities": "El Paso, Socorro, Sunland Park"
+  },
+  {
+    "AreaCode": "916",
+    "State": "California",
+    "Cities": "Sacramento, Elk Grove, Roseville"
+  },
+  {
+    "AreaCode": "917",
+    "State": "New York",
+    "Cities": "New York"
+  },
+  {
+    "AreaCode": "918",
+    "State": "Oklahoma",
+    "Cities": "Tulsa, Muskogee, Bartlesville"
+  },
+  {
+    "AreaCode": "919",
+    "State": "North Carolina",
+    "Cities": "Raleigh, Durham, Cary"
+  },
+  {
+    "AreaCode": "920",
+    "State": "Wisconsin",
+    "Cities": "Green Bay, Appleton, Oshkosh"
+  },
+  {
+    "AreaCode": "925",
+    "State": "California",
+    "Cities": "Concord, Walnut Creek, San Ramon"
+  },
+  {
+    "AreaCode": "928",
+    "State": "Arizona",
+    "Cities": "Flagstaff, Lake Havasu City, Bullhead City"
+  },
+  {
+    "AreaCode": "929",
+    "State": "New York",
+    "Cities": "New York"
+  },
+  {
+    "AreaCode": "930",
+    "State": "Florida",
+    "Cities": "St. Petersburg, Clearwater, Largo"
+  },
+  {
+    "AreaCode": "931",
+    "State": "Tennessee",
+    "Cities": "Clarksville, Murfreesboro, Columbia"
+  },
+  {
+    "AreaCode": "934",
+    "State": "New York",
+    "Cities": "New York"
+  },
+  {
+    "AreaCode": "936",
+    "State": "Texas",
+    "Cities": "Conroe, Huntsville, Lufkin"
+  },
+  {
+    "AreaCode": "937",
+    "State": "Ohio",
+    "Cities": "Dayton, Kettering, Beavercreek"
+  },
+  {
+    "AreaCode": "938",
+    "State": "Alabama",
+    "Cities": "Huntsville, Decatur, Madison"
+  },
+  {
+    "AreaCode": "940",
+    "State": "Texas",
+    "Cities": "Denton, Wichita Falls, Flower Mound"
+  },
+  {
+    "AreaCode": "941",
+    "State": "Florida",
+    "Cities": "North Port, Sarasota, Bradenton"
+  },
+  {
+    "AreaCode": "947",
+    "State": "Michigan",
+    "Cities": "Rochester Hills, Troy, Farmington Hills"
+  },
+  {
+    "AreaCode": "949",
+    "State": "California",
+    "Cities": "Irvine, Newport Beach, Lake Forest"
+  },
+  {
+    "AreaCode": "951",
+    "State": "California",
+    "Cities": "Riverside, Corona, Temecula"
+  },
+  {
+    "AreaCode": "952",
+    "State": "Minnesota",
+    "Cities": "Bloomington, Minnetonka, Edina"
+  },
+  {
+    "AreaCode": "954",
+    "State": "Florida",
+    "Cities": "Fort Lauderdale, Hollywood, Pompano Beach"
+  },
+  {
+    "AreaCode": "956",
+    "State": "Texas",
+    "Cities": "McAllen, Brownsville, Laredo"
+  },
+  {
+    "AreaCode": "959",
+    "State": "Connecticut",
+    "Cities": "Hartford, New Britain, West Hartford"
+  },
+  {
+    "AreaCode": "970",
+    "State": "Colorado",
+    "Cities": "Fort Collins, Greeley, Loveland"
+  },
+  {
+    "AreaCode": "971",
+    "State": "Oregon",
+    "Cities": "Portland, Salem, Gresham"
+  },
+  {
+    "AreaCode": "972",
+    "State": "Texas",
+    "Cities": "Dallas, Plano, Irving"
+  },
+  {
+    "AreaCode": "973",
+    "State": "New Jersey",
+    "Cities": "Newark, Paterson, Clifton"
+  },
+  {
+    "AreaCode": "978",
+    "State": "Massachusetts",
+    "Cities": "Lowell, Lawrence, Haverhill"
+  },
+  {
+    "AreaCode": "979",
+    "State": "Texas",
+    "Cities": "Bryan, Lake Jackson, Freeport"
+  },
+  {
+    "AreaCode": "980",
+    "State": "North Carolina",
+    "Cities": "Charlotte, Concord, Gastonia"
+  },
+  {
+    "AreaCode": "985",
+    "State": "Louisiana",
+    "Cities": "Hammond, Slidell, Covington"
+  },
+  {
+    "AreaCode": "989",
+    "State": "Michigan",
+    "Cities": "Saginaw, Midland, Bay City"
+  },
+  {
+    "AreaCode": "991",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "992",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "993",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "994",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "995",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "996",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "997",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  },
+  {
+    "AreaCode": "999",
+    "State": "Government and non-geographic services",
+    "Cities": "N/A"
+  }
+]
